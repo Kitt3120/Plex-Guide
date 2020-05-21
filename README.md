@@ -9,15 +9,15 @@ It covers
   * Setting quality settings to maximum
   * Enabling Direct Play / Direct Stream
   * Enabling hardware encoding and activating the Pre-Roll
-1. Background knowledge
+2. Background knowledge
   * Video Containers simplified
   * Direct Play described
   * Direct Stream described
   * Transcoding described
   * Pros and Cons - Direct Play/-Stream vs Transcoding
   * How to detect
-1. Pool analogy by https://www.reddit.com/r/PleX/comments/giqdg1/what_caused_you_to_pull_the_plug_on_sharing_your/fqgbdpw/?context=3
-1. Credits
+3. Pool analogy by https://www.reddit.com/r/PleX/comments/giqdg1/what_caused_you_to_pull_the_plug_on_sharing_your/fqgbdpw/?context=3
+4. Credits
 
 
 Feel free to get a copy of the PDF and edit it to your liking!
